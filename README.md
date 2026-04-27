@@ -18,6 +18,10 @@ This project demonstrates a decentralized polling system built using Solidity.
 * Solidity
 * Remix IDE
 
+###🎥 Video Explanation:
+
+https://drive.google.com/file/d/18w8ApySkLG-U5WXDBCDqbfw18mznJ89M/view?usp=drive_link
+
 ### 📌 Author:
 
 Shreya Joshi
